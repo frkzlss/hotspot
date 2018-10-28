@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hu1qvp/tvri.png",TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/i6Yg1U/sctv.png",SCTV
+http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fLZM1U/rcti.png",RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bxSKo9/net.png",NET.
+http://202.80.222.171/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mXUAvp/indosiar.png",INDOSIAR
+http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fQHkT9/trans_TV.png",TRANS TV
+http://202.80.222.171/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bwzM1U/trans7.png",TRANS 7
+http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gEVTgU/gtv.png",GTV
+http://202.80.222.171/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gCGC89/metro.png",METRO TV
+http://210.210.155.35/qwr9ew/s/s49/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gAxKo9/inews.png",I News
+http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gNbOFp/tvone.png",TV One
+http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jOnkT9/antv.png",ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jZeX89/mnctv.png",MNC TV
+http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gyJEMU/cnn.png",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:mcnn.smil/chunklist_w799552868_b192000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mJkuMU/berita_satu.png",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gBjcap/kompas.png",KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iKpogU/rtv.png",RTV
+http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/nAafT9/rodja.png",Rodja TV
+http://210.210.155.35/qwr9ew/s/s14/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/10537717_601148816668608_8745542933178544189_n.jpg?_nc_cat=100&_nc_ht=scontent-sin6-1.xx&oh=928463a744578f0525de9b1f84209b5f&oe=5C8862A5" group-title="Korea",K+
+http://210.210.155.35/uq2663/h/h08/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/16997770_1639316779698399_2583463043708161842_n.jpg?_nc_cat=110&_nc_ht=scontent-sin6-1.xx&oh=6c3e19808c39c508010b5432c75f410c&oe=5C506637" group-title="Korea",SBS in
+http://210.210.155.35/uq2663/h/h28/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/22730531_1999675090252786_2075403015163577002_n.jpg?_nc_cat=100&_nc_ht=scontent-sin6-1.xx&oh=551eaf4fa77507fba49e5878ae4b7332&oe=5C83263A" group-title="Movie",ZEE Bioskop
+http://210.210.155.35/qwr9ew/s/s32/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/1623612_673634342687536_292134820_n.jpg?_nc_cat=1&_nc_ht=scontent-sin6-1.xx&oh=4660ed2b5519208752c30be1bc7a3940&oe=5C3CFE29" group-title="Movie",KIX
+http://210.210.155.35/uq2663/h/h07/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/11836745_998856000159816_7030118259157628639_n.jpg?_nc_cat=104&_nc_ht=scontent-sin6-1.xx&oh=c792e3ba4b3475b695a1619363bcc9e1&oe=5C45BD85" group-title="Movie",thrill
+http://210.210.155.35/qwr9ew/s/s34/index1.m3u8
