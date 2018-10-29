@@ -67,3 +67,25 @@ http://210.210.155.35/uq2663/h/h07/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/11836745_998856000159816_7030118259157628639_n.jpg?_nc_cat=104&_nc_ht=scontent-sin6-1.xx&oh=c792e3ba4b3475b695a1619363bcc9e1&oe=5C45BD85" group-title="Movie",thrill
 http://210.210.155.35/qwr9ew/s/s34/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20HD.png" group-title="Movie", HBO HD
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+
+#EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-fox-hd-s.jpg" group-title="Movie",FOX HD
+http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="Movie",Fox Movies HD
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="Movie",Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.brandeps.com/logo-download/N/National-Geographic-Wild-HD-01.png" group-title="Knowledge", National Geographic Wild HD
+http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w177687450_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2000px-CGTN.svg.png" group-title="Knowledge", CGTN
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1, tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/02/Astro-Arena.jpg" group-title="Sport",ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
