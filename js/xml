@@ -78,7 +78,8 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/01.m3u
 http://210.210.155.35/uq2663/h/h28/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/1623612_673634342687536_292134820_n.jpg?_nc_cat=1&_nc_ht=scontent-sin6-1.xx&oh=4660ed2b5519208752c30be1bc7a3940&oe=5C3CFE29" group-title="Movie",KIX
-http://210.210.155.35/uq2663/h/h07/index1.m3u8
+#http://210.210.155.35/uq2663/h/h07/index1.m3u8
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/11836745_998856000159816_7030118259157628639_n.jpg?_nc_cat=104&_nc_ht=scontent-sin6-1.xx&oh=c792e3ba4b3475b695a1619363bcc9e1&oe=5C45BD85" group-title="Movie",thrill
 http://210.210.155.35/qwr9ew/s/s34/index1.m3u8
