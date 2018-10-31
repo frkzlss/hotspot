@@ -59,14 +59,14 @@ http://rr3.dens.tv/s/s30/index2.m3u8
 #EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/22730531_1999675090252786_2075403015163577002_n.jpg?_nc_cat=100&_nc_ht=scontent-sin6-1.xx&oh=551eaf4fa77507fba49e5878ae4b7332&oe=5C83263A" group-title="Movie",ZEE Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index1.m3u8
 
-#EXTINF:-1,K-DRAMA
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
-
 #EXTINF:0 group-title="Movies",Celestial Movies
 http://rr2.dens.tv/s/s33/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/10537717_601148816668608_8745542933178544189_n.jpg?_nc_cat=100&_nc_ht=scontent-sin6-1.xx&oh=928463a744578f0525de9b1f84209b5f&oe=5C8862A5" group-title="Korea",K+
 http://210.210.155.35/uq2663/h/h08/index1.m3u8
+
+#EXTINF:-1,K-DRAMA
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/16997770_1639316779698399_2583463043708161842_n.jpg?_nc_cat=110&_nc_ht=scontent-sin6-1.xx&oh=6c3e19808c39c508010b5432c75f410c&oe=5C506637" group-title="Korea",SBS in
 http://210.210.155.35/uq2663/h/h28/index1.m3u8
