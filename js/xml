@@ -65,7 +65,7 @@ http://rr2.dens.tv/s/s33/index2.m3u8
 #EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/10537717_601148816668608_8745542933178544189_n.jpg?_nc_cat=100&_nc_ht=scontent-sin6-1.xx&oh=928463a744578f0525de9b1f84209b5f&oe=5C8862A5" group-title="Korea",K+
 http://210.210.155.35/uq2663/h/h08/index1.m3u8
 
-#EXTINF:-1,K-DRAMA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="korea",K-DRAMA
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/16997770_1639316779698399_2583463043708161842_n.jpg?_nc_cat=110&_nc_ht=scontent-sin6-1.xx&oh=6c3e19808c39c508010b5432c75f410c&oe=5C506637" group-title="Korea",SBS in
