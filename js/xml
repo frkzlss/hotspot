@@ -80,6 +80,9 @@ http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w3
 #EXTINF:0 tvg-logo="https://image.ibb.co/ffbC8e/my_kids.jpg" group-title="Kids",My Kids
 http://rr3.dens.tv/s/s30/index2.m3u8
 
+#EXTINF:-1 tvg-logo="http://s24.postimg.org/teaxoj1qt/aswaja_tv_id.png" group-title="local",ASWAJA
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+  
 #EXTINF:0 tvg-logo="https://image.ibb.co/gSFLRz/karaoke_ch.jpg" group-title="Music",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 
