@@ -56,6 +56,10 @@ http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w3
 #EXTINF:0 tvg-logo="https://image.ibb.co/ffbC8e/my_kids.jpg" group-title="Kids",My Kids
 http://rr3.dens.tv/s/s30/index2.m3u8
 
+
+#EXTINF:0 group-title="kids",animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8 
+
 #EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/22730531_1999675090252786_2075403015163577002_n.jpg?_nc_cat=100&_nc_ht=scontent-sin6-1.xx&oh=551eaf4fa77507fba49e5878ae4b7332&oe=5C83263A" group-title="Movie",ZEE Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index1.m3u8
 
