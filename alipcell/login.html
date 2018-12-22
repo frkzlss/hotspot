@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<title>AlipCell - Login</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="pragma" content="no-cache" />
+		<meta http-equiv="expires" content="-1" />
+		<meta name="generator" content="Bootply" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<!--[if lt IE 9]>
+			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<link href="css/styles.css" rel="stylesheet">
+	</head>
+	<body>
+
+	$(if chap-id)
+		<form name="sendin" action="$(link-login-only)" method="post">
+			<input type="hidden" name="username" />
+			<input type="hidden" name="password" />
+			<input type="hidden" name="dst" value="http://www.google.com/" />
+			<input type="hidden" name="popup" value="true" />
+		</form>
+	
+	<script type="text/javascript" src="/md5.js"></script>
+	<script type="text/javascript">
+	<!--
+	    function doLogin() {
+		document.sendin.username.value = document.login.username.value;
+		document.sendin.password.value = hexMD5('$(chap-id)' + document.login.password.value + '$(chap-challenge)');
+		document.sendin.submit();
+		return false;
+	    }
+	//-->
+	</script>
+$(endif)
+
+
+		<div id="loginModal" class="modal show" tabindex="-1" role="dialog" aria-hidden="true">
+  			<div class="modal-dialog">
+  				<div class="modal-content">
+      				<div class="modal-header">
+          				<h1 class="text-center">
+          				<span style="color: #999999;">
+							<img class="logo" src="img/baner.png"></img></span>
+						</h1>
+          					<div class="text-center" style="color: #999999;">Alamat: Jln.Ranjeng No.xx Rt/Rw.xx/xx Jatiwangi.</span>
+							<div style="color: #FF0000; font-size: 14px">
+	          					$(if chap-id) 
+    	      					$(endif)
+								$(if error)
+								$(error)
+								$(endif)
+							</div>
+      			</div>
+      			<div class="modal-body">
+          			<form class="form col-md-12 center-block" name="login" action="$(link-login-only)" method="post"
+					    $(if chap-id) onSubmit="return doLogin()" $(endif)>
+					   	<input type="hidden" name="dst" value="$(link-orig)" />
+						<input type="hidden" name="popup" value="true" />
+					    
+            			<div class="form-group">
+              				<input type="text" class="form-control text-center input-lg" placeholder="ketik kode voucher disini" name="username">
+            			</div>
+            				<div class="form-group">
+              					<input type="hidden" class="form-control input-lg" placeholder="password" name="password">
+            				</div>
+            				<div class="form-group">
+              					<input class="btn btn-primary btn-lg btn-block" type="submit" value="MASUK" />
+              			      	<span class="pull-right" style="color: #666666;"><marquee scrollamount="3">Menyediakan Pulsa, Voucher, Dan Kuota all operator, Accessories Hp, Loket pembayaran listrik, Bpjs, dan lain-lain</marquee>
+              			      		
+              			      	</span>
+            				</div>
+          			</form>
+      			</div>
+      			<div class="modal-footer">
+      			</div>
+  				</div>
+  			</div>
+		</div>
+		<!-- script references -->
+		</script>
+		<script type="text/javascript">
+	var input1 = document.getElementById('username');
+	var input2 = document.getElementById('password');
+	var updateInputs = function () {
+	input2.value = input1.value;
+	}
+	if (input1.addEventListener) {
+	input1.addEventListener('keyup', function () {
+	updateInputs();
+	});
+	} else if (input1.attachEvent) { // support IE
+	input1.attachEvent('onkeyup', function () {
+	updateInputs();
+	});
+	}
+	</script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+	</body>
+</html>
