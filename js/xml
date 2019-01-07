@@ -23,20 +23,17 @@ http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gEVTgU/gtv.png",GTV
 http://202.80.222.171/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/gCGC89/metro.png",METRO TV
-http://210.210.155.35/qwr9ew/s/s49/index1.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/gAxKo9/inews.png",I News
-http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jZeX89/mnctv.png",MNC TV
+http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gNbOFp/tvone.png",TV One
 http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gAxKo9/inews.png",I News
+http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jOnkT9/antv.png",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/jZeX89/mnctv.png",MNC TV
-http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gyJEMU/cnn.png",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:mcnn.smil/chunklist_w799552868_b192000_sleng.m3u8
