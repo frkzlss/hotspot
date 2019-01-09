@@ -1,82 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.ibb.co/hu1qvp/tvri.png",TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/i6Yg1U/sctv.png",SCTV
-http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/fLZM1U/rcti.png",RCTI
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/bxSKo9/net.png",NET.
-http://202.80.222.171/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/mXUAvp/indosiar.png",INDOSIAR
-http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/fQHkT9/trans_TV.png",TRANS TV
-http://202.80.222.171/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/bwzM1U/trans7.png",TRANS 7
-http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/gEVTgU/gtv.png",GTV
-http://202.80.222.171/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/jZeX89/mnctv.png",MNC TV
-http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/gNbOFp/tvone.png",TV One
-http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/gAxKo9/inews.png",I News
-http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/jOnkT9/antv.png",ANTV
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/gyJEMU/cnn.png",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:mcnn.smil/chunklist_w799552868_b192000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/mJkuMU/berita_satu.png",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/gBjcap/kompas.png",KOMPAS TV
-http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/iKpogU/rtv.png",RTV
-http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
-
-#EXTINF:0 tvg-logo="https://image.ibb.co/jxc3Uz/bizkids.jpg" group-title="Kids",Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w381752356_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
-
-#EXTINF:0 tvg-logo="https://image.ibb.co/ffbC8e/my_kids.jpg" group-title="Kids",My Kids
-http://rr3.dens.tv/s/s30/index2.m3u8
-
-#EXTINF:-1 group-title="kids",animax
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/22730531_1999675090252786_2075403015163577002_n.jpg?_nc_cat=100&_nc_ht=scontent-sin6-1.xx&oh=551eaf4fa77507fba49e5878ae4b7332&oe=5C83263A" group-title="Movie",ZEE Bioskop
-http://210.210.155.35/qwr9ew/s/s32/index1.m3u8
-
-#EXTINF:0 group-title="Movies",Celestial Movies
-http://rr2.dens.tv/s/s33/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/10537717_601148816668608_8745542933178544189_n.jpg?_nc_cat=100&_nc_ht=scontent-sin6-1.xx&oh=928463a744578f0525de9b1f84209b5f&oe=5C8862A5" group-title="Korea",K+
-http://210.210.155.35/uq2663/h/h08/index1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="korea",K-DRAMA
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://scontent-sin2-1.xx.fbcdn.net/v/t1.0-9/11218991_1048250221861189_4555155829928654740_n.png?_nc_cat=1&_nc_ht=scontent-sin2-1.xx&oh=cdfa7deaae341f0ca9003ce1578d7a07&oe=5C4DD528" group-title="korea",KBS World
-http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/16997770_1639316779698399_2583463043708161842_n.jpg?_nc_cat=110&_nc_ht=scontent-sin6-1.xx&oh=6c3e19808c39c508010b5432c75f410c&oe=5C506637" group-title="Korea",SBS in
-http://210.210.155.35/uq2663/h/h28/index1.m3u8
-
-#EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/1623612_673634342687536_292134820_n.jpg?_nc_cat=1&_nc_ht=scontent-sin6-1.xx&oh=4660ed2b5519208752c30be1bc7a3940&oe=5C3CFE29" group-title="Movie",KIX
-#http://210.210.155.35/uq2663/h/h07/index1.m3u8
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/11836745_998856000159816_7030118259157628639_n.jpg?_nc_cat=104&_nc_ht=scontent-sin6-1.xx&oh=c792e3ba4b3475b695a1619363bcc9e1&oe=5C45BD85" group-title="Movie",thrill
-http://210.210.155.35/qwr9ew/s/s34/index1.m3u8
+#EXTINF:-1,TVRI - LOCAL
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ANTV - LOCAL
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS7 - LOCAL
+http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,METRO TV - LOCAL
+http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,INDOSIAR - LOCAL
+http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV ONE - LOCAL
+http://202.80.222.130/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,SCTV - LOCAL
+http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS TV - LOCAL
+http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,GLOBAL TV - LOCAL
+http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,NET TV - LOCAL
+http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,KOMPAS TV - LOCAL
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RAJAWALI TV - LOCAL
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,BERITA SATU - LOCAL
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JAKTV - LOCAL
+http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV9 - LOCAL
+http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,DAAI TV - LOCAL
+http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,THRILL ID - MOVIE
+http://202.80.222.130/000001/2/ch14091014374369601668/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ZEE BIOSKOP - MOVIE
+http://202.80.222.130/000001/2/ch18050415253550847033/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,LIFE - KNOWLEDGE 
+http://202.80.222.130/000001/2/ch15051810244348873197/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,HIDAYAH - KNOWLEDGE
+http://202.80.222.130/000001/2/ch14042115480369186908/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC NEWS - NEWS
+http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC ENTERTAINMENT - ENTERTAINMENT
+http://202.80.222.130/000001/2/ch14041511585459217880/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,AUTO GADGET
+http://202.80.222.130/000001/2/ch15060913243195524436/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC SHOP - LIFESTYLE
+http://202.80.222.130/000001/2/ch14042116313092107617/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC LIFESTYLE - LIFESTYLE
+http://202.80.222.130/000001/2/ch14042115455097827083/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,HEALTY BEAUTY - LIFESTYLE
+http://202.80.222.130/000001/2/ch15010918423014569476/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC FASHION - LIFESTYLE
+http://202.80.222.130/000001/2/ch14041514205580055265/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,HOME LIVING - LIFESTYLE
+http://202.80.222.130/000001/2/ch14121910140294885803/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,EXTREME CHANNEL - LIFESTYLE
+http://202.80.222.130/000001/2/ch17112110144611208019/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,INFOTRAINMENT - ENTERTAINMENT
+http://202.80.222.130/000001/2/ch14041512001060787776/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,FOOD TRAVEL - LIFESTYLE
+http://202.80.222.130/000001/2/ch14041514171573823676/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,IDX CHANNEL - NEWS
+http://202.80.222.130/000001/2/ch14042115424530214011/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,COMEDY CHANNEL - ENTERTAINMENT
+http://202.80.222.130/000001/2/ch14061214064040168714/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,GAMES CHANNEL - ENTERTAINMENT
+http://202.80.222.130/000001/2/ch15092109552025062916/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC CHANNEL - ENTERTAINMENT
+http://202.80.222.130/000001/2/ch18040213194357388223/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MUSIC CHANNEL - MUSIC
+http://202.80.222.130/000001/2/ch14041511582088062293/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,HITS - ENTERTAINMENT
+http://202.80.222.130/000001/2/ch15010713414035158349/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ALJAZEERA - NEWS
+http://202.80.222.130/000001/2/ch16061615334440670610/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RT NEWS - NEWS
+http://202.80.222.130/000001/2/ch00000090990000001717/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,FRANCE 24 - NEWS
+http://202.80.222.130/000001/2/ch16062015274821614237/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,DW CHANNEL - NEWS
+http://202.80.222.130/000001/2/ch17092617422344791446/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRT WORLD - NEWS
+http://202.80.222.130/000001/2/ch00000090990000001721/index.m3u8?virtualDomain=000001.live_hls.zte.com
