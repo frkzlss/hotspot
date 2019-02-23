@@ -1,2 +1,2 @@
 # hotspot
-# https://goo.gl/a1qNkT
+# goo.gl/a1qNkT
