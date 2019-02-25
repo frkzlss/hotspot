@@ -141,629 +141,629 @@ http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/1_News_%28New_Zealand%29.svg/1200px-1_News_%28New_Zealand%29.svg.png" group-title="Malaysia",1 NEWS
 http://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
 
-#EXTINF:0,group-title="Sport",BR: FOX SPORTS 2 FULL HD*
+#EXTINF:1 group-title="Sport",BR: FOX SPORTS 2 FULL HD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141894.m3u8
-#EXTINF:0,group-title="Sport",BR: FOX SPORTS FULL HD*
+#EXTINF:1 group-title="Sport",BR: FOX SPORTS FULL HD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141897.m3u8
-#EXTINF:0,group-title="Sport",BR: SPORTV 2 FULL HD*
+#EXTINF:1 group-title="Sport",BR: SPORTV 2 FULL HD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141782.m3u8
-#EXTINF:0,group-title="Sport",BR: SPORTV 3 FULL HD*
+#EXTINF:1 group-title="Sport",BR: SPORTV 3 FULL HD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141779.m3u8
-#EXTINF:0,group-title="Sport",BR: SPORTV FULL HD*
+#EXTINF:1 group-title="Sport",BR: SPORTV FULL HD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141785.m3u8
-#EXTINF:0,group-title="Sport",BR:BAND SPORTS HD*
+#EXTINF:1 group-title="Sport",BR:BAND SPORTS HD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141966.m3u8
-#EXTINF:0,group-title="Sport",BR:Band Sports SD*
+#EXTINF:1 group-title="Sport",BR:Band Sports SD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141967.m3u8
-#EXTINF:0,group-title="Sport",BR:Fox Sports 2 HD*
+#EXTINF:1 group-title="Sport",BR:Fox Sports 2 HD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141895.m3u8
-#EXTINF:0,group-title="Sport",BR:Fox Sports 2 SD*
+#EXTINF:1 group-title="Sport",BR:Fox Sports 2 SD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141896.m3u8
-#EXTINF:0,group-title="Sport",BR:Fox Sports HD*
+#EXTINF:1 group-title="Sport",BR:Fox Sports HD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141898.m3u8
-#EXTINF:0,group-title="Sport",BR:Fox Sports SD*
+#EXTINF:1 group-title="Sport",BR:Fox Sports SD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141899.m3u8
-#EXTINF:0,group-title="Sport",BR:SporTV 2 HD*
+#EXTINF:1 group-title="Sport",BR:SporTV 2 HD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141783.m3u8
-#EXTINF:0,group-title="Sport",BR:SporTV 2 SD*
+#EXTINF:1 group-title="Sport",BR:SporTV 2 SD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141784.m3u8
-#EXTINF:0,group-title="Sport",BR:SPORTV 3 HD*
+#EXTINF:1 group-title="Sport",BR:SPORTV 3 HD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141780.m3u8
-#EXTINF:0,group-title="Sport",BR:SporTV 3 SD*
+#EXTINF:1 group-title="Sport",BR:SporTV 3 SD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141781.m3u8
-#EXTINF:0,group-title="Sport",BR:SPORTV HD*
+#EXTINF:1 group-title="Sport",BR:SPORTV HD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141786.m3u8
-#EXTINF:0,group-title="Sport",BR:SporTV SD*
+#EXTINF:1 group-title="Sport",BR:SporTV SD*
 http://fonte.iptvmaishd.com:25461/live/4247/4247/141787.m3u8
-#EXTINF:0,group-title="Sport",BR: Sport TV
+#EXTINF:1 group-title="Sport",BR: Sport TV
 http://fonte.iptvmaishd.com:25461/live/4247/4247/150434.m3u8
-#EXTINF:0,group-title="Sport",BR: SPORT TV 2
+#EXTINF:1 group-title="Sport",BR: SPORT TV 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/150515.m3u8
-#EXTINF:0,group-title="Sport",BR: Sport TV 2 HD
+#EXTINF:1 group-title="Sport",BR: Sport TV 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/150367.m3u8
-#EXTINF:0,group-title="Sport",BR: SPORT TV 3
+#EXTINF:1 group-title="Sport",BR: SPORT TV 3
 http://fonte.iptvmaishd.com:25461/live/4247/4247/150510.m3u8
-#EXTINF:0,group-title="Sport",BR: Sport TV 3 HD
+#EXTINF:1 group-title="Sport",BR: Sport TV 3 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/150366.m3u8
-#EXTINF:0,group-title="Sport",BR: Sport TV HD
+#EXTINF:1 group-title="Sport",BR: Sport TV HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/150365.m3u8
-#EXTINF:0,group-title="Sport",BR: Sport TV2
+#EXTINF:1 group-title="Sport",BR: Sport TV2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/150433.m3u8
-#EXTINF:0,group-title="Sport",BR: Sport TV3
+#EXTINF:1 group-title="Sport",BR: Sport TV3
 http://fonte.iptvmaishd.com:25461/live/4247/4247/150432.m3u8
-#EXTINF:0,group-title="Sport",BR: SporTV FHD
+#EXTINF:1 group-title="Sport",BR: SporTV FHD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/150312.m3u8
-#EXTINF:0,group-title="Sport",Latino: FOX SPORT 3
+#EXTINF:1 group-title="Sport",Latino: FOX SPORT 3
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125748.m3u8
-#EXTINF:0,group-title="Sport",Latino: Fox Sports
+#EXTINF:1 group-title="Sport",Latino: Fox Sports
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125812.m3u8
-#EXTINF:0,group-title="Sport",Latino: Fox Sports 2 HD
+#EXTINF:1 group-title="Sport",Latino: Fox Sports 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125813.m3u8
-#EXTINF:0,group-title="Sport",PT: EUROSPORT
+#EXTINF:1 group-title="Sport",PT: EUROSPORT
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125912.m3u8
-#EXTINF:0,group-title="Sport",PT: Eurosport 1
+#EXTINF:1 group-title="Sport",PT: Eurosport 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125857.m3u8
-#EXTINF:0,group-title="Sport",PT: EUROSPORT 1 HD 1080
+#EXTINF:1 group-title="Sport",PT: EUROSPORT 1 HD 1080
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125881.m3u8
-#EXTINF:0,group-title="Sport",PT: EUROSPORT 2
+#EXTINF:1 group-title="Sport",PT: EUROSPORT 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125821.m3u8
-#EXTINF:0,group-title="Sport",PT: Eurosport new
+#EXTINF:1 group-title="Sport",PT: Eurosport new
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125858.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV
+#EXTINF:1 group-title="Sport",PT: SPORT TV
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125872.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV   HD 1080
+#EXTINF:1 group-title="Sport",PT: SPORT TV   HD 1080
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125871.m3u8
-#EXTINF:0,group-title="Sport",PT: Sport TV  backup
+#EXTINF:1 group-title="Sport",PT: Sport TV  backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125840.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV  HD 1080
+#EXTINF:1 group-title="Sport",PT: SPORT TV  HD 1080
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125847.m3u8
-#EXTINF:0,group-title="Sport",PT: Sport TV 1 backup
+#EXTINF:1 group-title="Sport",PT: Sport TV 1 backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125839.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV 1 HD
+#EXTINF:1 group-title="Sport",PT: SPORT TV 1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125944.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV 1 HD 1080
+#EXTINF:1 group-title="Sport",PT: SPORT TV 1 HD 1080
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125870.m3u8
-#EXTINF:0,group-title="Sport",PT: Sport TV 1 HD backup
+#EXTINF:1 group-title="Sport",PT: Sport TV 1 HD backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125838.m3u8
-#EXTINF:0,group-title="Sport",PT: Sport TV 2 backup
+#EXTINF:1 group-title="Sport",PT: Sport TV 2 backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125837.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV 2 HD
+#EXTINF:1 group-title="Sport",PT: SPORT TV 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125945.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV 2 HD 1080
+#EXTINF:1 group-title="Sport",PT: SPORT TV 2 HD 1080
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125869.m3u8
-#EXTINF:0,group-title="Sport",PT: Sport TV 2 HD backup
+#EXTINF:1 group-title="Sport",PT: Sport TV 2 HD backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125836.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV 2 HD(1)
+#EXTINF:1 group-title="Sport",PT: SPORT TV 2 HD(1)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125971.m3u8
-#EXTINF:0,group-title="Sport",PT: Sport TV 3 backup
+#EXTINF:1 group-title="Sport",PT: Sport TV 3 backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125835.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV 3 HD
+#EXTINF:1 group-title="Sport",PT: SPORT TV 3 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125946.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV 3 HD 1080
+#EXTINF:1 group-title="Sport",PT: SPORT TV 3 HD 1080
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125868.m3u8
-#EXTINF:0,group-title="Sport",PT: Sport TV 3 HD backup
+#EXTINF:1 group-title="Sport",PT: Sport TV 3 HD backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125834.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV 3HD
+#EXTINF:1 group-title="Sport",PT: SPORT TV 3HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125859.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV 4
+#EXTINF:1 group-title="Sport",PT: SPORT TV 4
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125947.m3u8
-#EXTINF:0,group-title="Sport",PT: Sport TV 4 backup
+#EXTINF:1 group-title="Sport",PT: Sport TV 4 backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125833.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV 4 HD 1080
+#EXTINF:1 group-title="Sport",PT: SPORT TV 4 HD 1080
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125867.m3u8
-#EXTINF:0,group-title="Sport",PT: Sport TV 4 HD backup
+#EXTINF:1 group-title="Sport",PT: Sport TV 4 HD backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125832.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV 4HD
+#EXTINF:1 group-title="Sport",PT: SPORT TV 4HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125948.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV 5
+#EXTINF:1 group-title="Sport",PT: SPORT TV 5
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125949.m3u8
-#EXTINF:0,group-title="Sport",PT: Sport TV 5 backup
+#EXTINF:1 group-title="Sport",PT: Sport TV 5 backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125831.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV 5 HD 1080
+#EXTINF:1 group-title="Sport",PT: SPORT TV 5 HD 1080
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125866.m3u8
-#EXTINF:0,group-title="Sport",PT: Sport TV 5 HD backup
+#EXTINF:1 group-title="Sport",PT: Sport TV 5 HD backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125830.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORT TV 5HD
+#EXTINF:1 group-title="Sport",PT: SPORT TV 5HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125950.m3u8
-#EXTINF:0,group-title="Sport",PT: SPORTING TV
+#EXTINF:1 group-title="Sport",PT: SPORTING TV
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125951.m3u8
-#EXTINF:0,group-title="Sport",PT: Sporting TV HD 1080
+#EXTINF:1 group-title="Sport",PT: Sporting TV HD 1080
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125865.m3u8
-#EXTINF:0,group-title="Sport",ES: BeiN La Liga
+#EXTINF:1 group-title="Sport",ES: BeiN La Liga
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125989.m3u8
-#EXTINF:0,group-title="Sport",ES: beIN LA Liga FHD
+#EXTINF:1 group-title="Sport",ES: beIN LA Liga FHD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125983.m3u8
-#EXTINF:0,group-title="Sport",ES: beIN Laliga 1 HD Backup
+#EXTINF:1 group-title="Sport",ES: beIN Laliga 1 HD Backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125992.m3u8
-#EXTINF:0,group-title="Sport",ES: BeiN Laliga FHD
+#EXTINF:1 group-title="Sport",ES: BeiN Laliga FHD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125988.m3u8
-#EXTINF:0,group-title="Sport",ES: Bein Liga HD
+#EXTINF:1 group-title="Sport",ES: Bein Liga HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/126015.m3u8
-#EXTINF:0,group-title="Sport",ES: beIN Sport FHD
+#EXTINF:1 group-title="Sport",ES: beIN Sport FHD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/125987.m3u8
-#EXTINF:0,group-title="Sport",ES: Bein Sport HD
+#EXTINF:1 group-title="Sport",ES: Bein Sport HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/126016.m3u8
-#EXTINF:0,group-title="Sport",US: Fight HD
+#EXTINF:1 group-title="Sport",US: Fight HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/126087.m3u8
-#EXTINF:0,group-title="Sport",US: FIGHT SPORT
+#EXTINF:1 group-title="Sport",US: FIGHT SPORT
 http://fonte.iptvmaishd.com:25461/live/4247/4247/126184.m3u8
-#EXTINF:0,group-title="Sport",US: Fox sport 1 backup
+#EXTINF:1 group-title="Sport",US: Fox sport 1 backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/126205.m3u8
-#EXTINF:0,group-title="Sport",US: Fox Sports 1 HD
+#EXTINF:1 group-title="Sport",US: Fox Sports 1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/126119.m3u8
-#EXTINF:0,group-title="Sport",US: Fox Sports 2 HD
+#EXTINF:1 group-title="Sport",US: Fox Sports 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/126120.m3u8
-#EXTINF:0,group-title="Sport",US: Fox SPORTS 506 HD
+#EXTINF:1 group-title="Sport",US: Fox SPORTS 506 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/126172.m3u8
-#EXTINF:0,group-title="Sport",AR VIP: Bein Sport 1 HD (Backup)
+#EXTINF:1 group-title="Sport",AR VIP: Bein Sport 1 HD (Backup)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142455.m3u8
-#EXTINF:0,group-title="Sport",AR VIP: Bein Sport 10 HD (Backup)
+#EXTINF:1 group-title="Sport",AR VIP: Bein Sport 10 HD (Backup)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142454.m3u8
-#EXTINF:0,group-title="Sport",AR VIP: Bein Sport 11 HD (Backup)
+#EXTINF:1 group-title="Sport",AR VIP: Bein Sport 11 HD (Backup)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142453.m3u8
-#EXTINF:0,group-title="Sport",AR VIP: Bein Sport 12 HD (Backup)
+#EXTINF:1 group-title="Sport",AR VIP: Bein Sport 12 HD (Backup)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142452.m3u8
-#EXTINF:0,group-title="Sport",AR VIP: Bein Sport 2 HD (Backup)
+#EXTINF:1 group-title="Sport",AR VIP: Bein Sport 2 HD (Backup)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142451.m3u8
-#EXTINF:0,group-title="Sport",AR VIP: Bein Sport 3 HD (Backup)
+#EXTINF:1 group-title="Sport",AR VIP: Bein Sport 3 HD (Backup)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142450.m3u8
-#EXTINF:0,group-title="Sport",AR VIP: Bein Sport 4 HD (Backup)
+#EXTINF:1 group-title="Sport",AR VIP: Bein Sport 4 HD (Backup)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142449.m3u8
-#EXTINF:0,group-title="Sport",AR VIP: Bein Sport 5 HD (Backup)
+#EXTINF:1 group-title="Sport",AR VIP: Bein Sport 5 HD (Backup)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142448.m3u8
-#EXTINF:0,group-title="Sport",AR VIP: Bein Sport 6 HD (Backup)
+#EXTINF:1 group-title="Sport",AR VIP: Bein Sport 6 HD (Backup)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142447.m3u8
-#EXTINF:0,group-title="Sport",AR VIP: Bein Sport 7 HD (Backup)
+#EXTINF:1 group-title="Sport",AR VIP: Bein Sport 7 HD (Backup)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142446.m3u8
-#EXTINF:0,group-title="Sport",AR VIP: Bein Sport 8 HD (Backup)
+#EXTINF:1 group-title="Sport",AR VIP: Bein Sport 8 HD (Backup)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142445.m3u8
-#EXTINF:0,group-title="Sport",AR VIP: Bein Sport 9 HD (Backup)
+#EXTINF:1 group-title="Sport",AR VIP: Bein Sport 9 HD (Backup)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142444.m3u8
-#EXTINF:0,group-title="Sport",AR: Abu Dhabi Sports 1
+#EXTINF:1 group-title="Sport",AR: Abu Dhabi Sports 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142989.m3u8
-#EXTINF:0,group-title="Sport",AR: AD Sports 1
+#EXTINF:1 group-title="Sport",AR: AD Sports 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142991.m3u8
-#EXTINF:0,group-title="Sport",AR: AD Sports 2
+#EXTINF:1 group-title="Sport",AR: AD Sports 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142990.m3u8
-#EXTINF:0,group-title="Sport",AR: AD Sports 3 HD
+#EXTINF:1 group-title="Sport",AR: AD Sports 3 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142971.m3u8
-#EXTINF:0,group-title="Sport",AR: AD Sports 4 HD
+#EXTINF:1 group-title="Sport",AR: AD Sports 4 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142972.m3u8
-#EXTINF:0,group-title="Sport",AR: AD Sports 5 HD
+#EXTINF:1 group-title="Sport",AR: AD Sports 5 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142973.m3u8
-#EXTINF:0,group-title="Sport",AR: Bein Sport HD
+#EXTINF:1 group-title="Sport",AR: Bein Sport HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142510.m3u8
-#EXTINF:0,group-title="Sport",AR: beIN SPorts
+#EXTINF:1 group-title="Sport",AR: beIN SPorts
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142956.m3u8
-#EXTINF:0,group-title="Sport",AR: beIN Sports 1 HD
+#EXTINF:1 group-title="Sport",AR: beIN Sports 1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142957.m3u8
-#EXTINF:0,group-title="Sport",AR: beIN Sports 10 HD
+#EXTINF:1 group-title="Sport",AR: beIN Sports 10 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142958.m3u8
-#EXTINF:0,group-title="Sport",AR: beIN Sports 11 HD
+#EXTINF:1 group-title="Sport",AR: beIN Sports 11 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142959.m3u8
-#EXTINF:0,group-title="Sport",AR: beIN Sports 12 HD
+#EXTINF:1 group-title="Sport",AR: beIN Sports 12 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142960.m3u8
-#EXTINF:0,group-title="Sport",AR: beIN Sports 13 HD
+#EXTINF:1 group-title="Sport",AR: beIN Sports 13 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142961.m3u8
-#EXTINF:0,group-title="Sport",AR: beIN Sports 2 HD
+#EXTINF:1 group-title="Sport",AR: beIN Sports 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142962.m3u8
-#EXTINF:0,group-title="Sport",AR: beIN Sports 3 HD
+#EXTINF:1 group-title="Sport",AR: beIN Sports 3 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142963.m3u8
-#EXTINF:0,group-title="Sport",AR: beIN Sports 4 HD
+#EXTINF:1 group-title="Sport",AR: beIN Sports 4 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142964.m3u8
-#EXTINF:0,group-title="Sport",AR: beIN Sports 5 HD
+#EXTINF:1 group-title="Sport",AR: beIN Sports 5 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142965.m3u8
-#EXTINF:0,group-title="Sport",AR: beIN Sports 6 HD
+#EXTINF:1 group-title="Sport",AR: beIN Sports 6 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142966.m3u8
-#EXTINF:0,group-title="Sport",AR: beIN Sports 7 HD
+#EXTINF:1 group-title="Sport",AR: beIN Sports 7 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142967.m3u8
-#EXTINF:0,group-title="Sport",AR: beIN Sports 8 HD
+#EXTINF:1 group-title="Sport",AR: beIN Sports 8 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142968.m3u8
-#EXTINF:0,group-title="Sport",AR: beIN Sports 9 HD
+#EXTINF:1 group-title="Sport",AR: beIN Sports 9 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142969.m3u8
-#EXTINF:0,group-title="Sport",AR: Dubai Sport 3
+#EXTINF:1 group-title="Sport",AR: Dubai Sport 3
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142820.m3u8
-#EXTINF:0,group-title="Sport",AR: Dubai Sports 1
+#EXTINF:1 group-title="Sport",AR: Dubai Sports 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142656.m3u8
-#EXTINF:0,group-title="Sport",AR: Dubai Sports 4
+#EXTINF:1 group-title="Sport",AR: Dubai Sports 4
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142701.m3u8
-#EXTINF:0,group-title="Sport",AR: OSN Alkass Sport 1
+#EXTINF:1 group-title="Sport",AR: OSN Alkass Sport 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142878.m3u8
-#EXTINF:0,group-title="Sport",AR: OSN Alkass Sport 2
+#EXTINF:1 group-title="Sport",AR: OSN Alkass Sport 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142879.m3u8
-#EXTINF:0,group-title="Sport",AR: OSN Alkass Sport 3
+#EXTINF:1 group-title="Sport",AR: OSN Alkass Sport 3
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142880.m3u8
-#EXTINF:0,group-title="Sport",AR: OSN Alkass Sport 4
+#EXTINF:1 group-title="Sport",AR: OSN Alkass Sport 4
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142881.m3u8
-#EXTINF:0,group-title="Sport",AR: OSN OSN SPORT FIGHTNETWORK
+#EXTINF:1 group-title="Sport",AR: OSN OSN SPORT FIGHTNETWORK
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142932.m3u8
-#EXTINF:0,group-title="Sport",AR: OSN Sports 1 HD
+#EXTINF:1 group-title="Sport",AR: OSN Sports 1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142677.m3u8
-#EXTINF:0,group-title="Sport",AR: OSN Sports 2 HD
+#EXTINF:1 group-title="Sport",AR: OSN Sports 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142676.m3u8
-#EXTINF:0,group-title="Sport",AR: OSN Sports 3 HD
+#EXTINF:1 group-title="Sport",AR: OSN Sports 3 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142675.m3u8
-#EXTINF:0,group-title="Sport",AR: OSN Sports 4 HD
+#EXTINF:1 group-title="Sport",AR: OSN Sports 4 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142674.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: BEIN SPORT (Backup2) 10 HD
+#EXTINF:1 group-title="Sport",VIP AR: BEIN SPORT (Backup2) 10 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142715.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: BEIN SPORT (Backup2) 8 HD
+#EXTINF:1 group-title="Sport",VIP AR: BEIN SPORT (Backup2) 8 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142714.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: BEIN SPORT (Backup2) 9 HD
+#EXTINF:1 group-title="Sport",VIP AR: BEIN SPORT (Backup2) 9 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142713.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: BEIN SPORT (Backup2) HD 1
+#EXTINF:1 group-title="Sport",VIP AR: BEIN SPORT (Backup2) HD 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142712.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: BEIN SPORT (Backup2) HD 2
+#EXTINF:1 group-title="Sport",VIP AR: BEIN SPORT (Backup2) HD 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142711.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: BEIN SPORT (Backup2) HD 3
+#EXTINF:1 group-title="Sport",VIP AR: BEIN SPORT (Backup2) HD 3
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142710.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: BEIN SPORT (Backup2) HD 4
+#EXTINF:1 group-title="Sport",VIP AR: BEIN SPORT (Backup2) HD 4
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142709.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: BEIN SPORT (Backup2) HD 5
+#EXTINF:1 group-title="Sport",VIP AR: BEIN SPORT (Backup2) HD 5
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142708.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: BEIN SPORT (Backup2) HD 6
+#EXTINF:1 group-title="Sport",VIP AR: BEIN SPORT (Backup2) HD 6
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142707.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: BEIN SPORT (Backup2) HD 7
+#EXTINF:1 group-title="Sport",VIP AR: BEIN SPORT (Backup2) HD 7
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142706.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: Bein Sport News
+#EXTINF:1 group-title="Sport",VIP AR: Bein Sport News
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142779.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: OSN Abu Dhabi Sports 1 HD
+#EXTINF:1 group-title="Sport",VIP AR: OSN Abu Dhabi Sports 1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142642.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: OSN Abu Dhabi Sports 2 HD
+#EXTINF:1 group-title="Sport",VIP AR: OSN Abu Dhabi Sports 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142641.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: OSN Abu Dhabi Sports 4 HD
+#EXTINF:1 group-title="Sport",VIP AR: OSN Abu Dhabi Sports 4 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142639.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: OSN Abu Dhabi Sports 5 HD
+#EXTINF:1 group-title="Sport",VIP AR: OSN Abu Dhabi Sports 5 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142638.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: OSN Abu Dhabi Sports 6 HD
+#EXTINF:1 group-title="Sport",VIP AR: OSN Abu Dhabi Sports 6 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142637.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: OSN Sports 1
+#EXTINF:1 group-title="Sport",VIP AR: OSN Sports 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142650.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: OSN Sports 2
+#EXTINF:1 group-title="Sport",VIP AR: OSN Sports 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142649.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: OSN Sports 3
+#EXTINF:1 group-title="Sport",VIP AR: OSN Sports 3
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142648.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: OSN Sports 4
+#EXTINF:1 group-title="Sport",VIP AR: OSN Sports 4
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142647.m3u8
-#EXTINF:0,group-title="Sport",VIP AR: OSN Sports Cricket HD
+#EXTINF:1 group-title="Sport",VIP AR: OSN Sports Cricket HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142646.m3u8
-#EXTINF:0,group-title="Sport",VIP: OSN WWE HD
+#EXTINF:1 group-title="Sport",VIP: OSN WWE HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/142645.m3u8
-#EXTINF:0,group-title="Sport",AL : SuperSport 3
+#EXTINF:1 group-title="Sport",AL : SuperSport 3
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145361.m3u8
-#EXTINF:0,group-title="Sport",AL : SuperSport 4
+#EXTINF:1 group-title="Sport",AL : SuperSport 4
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145362.m3u8
-#EXTINF:0,group-title="Sport",AL : SuperSport 5
+#EXTINF:1 group-title="Sport",AL : SuperSport 5
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145363.m3u8
-#EXTINF:0,group-title="Sport",AL : SuperSport 6
+#EXTINF:1 group-title="Sport",AL : SuperSport 6
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145364.m3u8
-#EXTINF:0,group-title="Sport",AL: Super Sport 1
+#EXTINF:1 group-title="Sport",AL: Super Sport 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145357.m3u8
-#EXTINF:0,group-title="Sport",AL: Super Sport 1 HD
+#EXTINF:1 group-title="Sport",AL: Super Sport 1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145440.m3u8
-#EXTINF:0,group-title="Sport",AL: Super Sport 2
+#EXTINF:1 group-title="Sport",AL: Super Sport 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145358.m3u8
-#EXTINF:0,group-title="Sport",Al: Super Sport 2 HD
+#EXTINF:1 group-title="Sport",Al: Super Sport 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145441.m3u8
-#EXTINF:0,group-title="Sport",AL: Super Sport 3 HD
+#EXTINF:1 group-title="Sport",AL: Super Sport 3 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145442.m3u8
-#EXTINF:0,group-title="Sport",AL: Super Sport 4 HD
+#EXTINF:1 group-title="Sport",AL: Super Sport 4 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145443.m3u8
-#EXTINF:0,group-title="Sport",AL: Super Sport Kosovo 1 HD
+#EXTINF:1 group-title="Sport",AL: Super Sport Kosovo 1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145359.m3u8
-#EXTINF:0,group-title="Sport",AL: Super Sport Kosovo 2 HD
+#EXTINF:1 group-title="Sport",AL: Super Sport Kosovo 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145360.m3u8
-#EXTINF:0,group-title="Sport",AL: TRING SPORT 1 HD
+#EXTINF:1 group-title="Sport",AL: TRING SPORT 1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145375.m3u8
-#EXTINF:0,group-title="Sport",AL: Tring Sport 2 HD
+#EXTINF:1 group-title="Sport",AL: Tring Sport 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145431.m3u8
-#EXTINF:0,group-title="Sport",AL: Tring Sport 3 HD
+#EXTINF:1 group-title="Sport",AL: Tring Sport 3 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145432.m3u8
-#EXTINF:0,group-title="Sport",AL: TRING SPORT 4 HD
+#EXTINF:1 group-title="Sport",AL: TRING SPORT 4 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145376.m3u8
-#EXTINF:0,group-title="Sport",BG: Diema Spor 1
+#EXTINF:1 group-title="Sport",BG: Diema Spor 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145490.m3u8
-#EXTINF:0,group-title="Sport",BG: Diema Spor 2
+#EXTINF:1 group-title="Sport",BG: Diema Spor 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145489.m3u8
-#EXTINF:0,group-title="Sport",BG: EuroSport
+#EXTINF:1 group-title="Sport",BG: EuroSport
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145488.m3u8
-#EXTINF:0,group-title="Sport",BG: EuroSport 2
+#EXTINF:1 group-title="Sport",BG: EuroSport 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145487.m3u8
-#EXTINF:0,group-title="Sport",DE: Sport 1  HD
+#EXTINF:1 group-title="Sport",DE: Sport 1  HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145821.m3u8
-#EXTINF:0,group-title="Sport",DE: Sport 1 US
+#EXTINF:1 group-title="Sport",DE: Sport 1 US
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145822.m3u8
-#EXTINF:0,group-title="Sport",DE: Sport Bundesliga 10 HD (1080P)
+#EXTINF:1 group-title="Sport",DE: Sport Bundesliga 10 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145831.m3u8
-#EXTINF:0,group-title="Sport",DE: Sport Digital HD
+#EXTINF:1 group-title="Sport",DE: Sport Digital HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145820.m3u8
-#EXTINF:0,group-title="Sport",DE: SPORT1 HD ( 1080P )
+#EXTINF:1 group-title="Sport",DE: SPORT1 HD ( 1080P )
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145801.m3u8
-#EXTINF:0,group-title="Sport",DK: TV3 SPORT 1
+#EXTINF:1 group-title="Sport",DK: TV3 SPORT 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145573.m3u8
-#EXTINF:0,group-title="Sport",DK: TV3 SPORT 2
+#EXTINF:1 group-title="Sport",DK: TV3 SPORT 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145583.m3u8
-#EXTINF:0,group-title="Sport",EX-YU: Sport Klub 1
+#EXTINF:1 group-title="Sport",EX-YU: Sport Klub 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145619.m3u8
-#EXTINF:0,group-title="Sport",EX-YU: Sport Klub 2
+#EXTINF:1 group-title="Sport",EX-YU: Sport Klub 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145618.m3u8
-#EXTINF:0,group-title="Sport",EX-YU: Sport Klub 3
+#EXTINF:1 group-title="Sport",EX-YU: Sport Klub 3
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145617.m3u8
-#EXTINF:0,group-title="Sport",EX-YU: SPORTKLUB 4 SD
+#EXTINF:1 group-title="Sport",EX-YU: SPORTKLUB 4 SD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145616.m3u8
-#EXTINF:0,group-title="Sport",EX-YU: SPORTKLUB 5 SD
+#EXTINF:1 group-title="Sport",EX-YU: SPORTKLUB 5 SD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145615.m3u8
-#EXTINF:0,group-title="Sport",EX-YU: SPORTKLUB 6 SD
+#EXTINF:1 group-title="Sport",EX-YU: SPORTKLUB 6 SD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145614.m3u8
-#EXTINF:0,group-title="Sport",EX-YU: Sportska TV
+#EXTINF:1 group-title="Sport",EX-YU: Sportska TV
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145670.m3u8
-#EXTINF:0,group-title="Sport",FR: Bein Sport Max 10
+#EXTINF:1 group-title="Sport",FR: Bein Sport Max 10
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144603.m3u8
-#EXTINF:0,group-title="Sport",FR: Bein Sport Max 5
+#EXTINF:1 group-title="Sport",FR: Bein Sport Max 5
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144604.m3u8
-#EXTINF:0,group-title="Sport",FR: Bein Sport Max 6
+#EXTINF:1 group-title="Sport",FR: Bein Sport Max 6
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144605.m3u8
-#EXTINF:0,group-title="Sport",FR: Bein Sport Max 7
+#EXTINF:1 group-title="Sport",FR: Bein Sport Max 7
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144606.m3u8
-#EXTINF:0,group-title="Sport",FR: Bein Sport Max 8
+#EXTINF:1 group-title="Sport",FR: Bein Sport Max 8
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144607.m3u8
-#EXTINF:0,group-title="Sport",FR: Bein Sport Max 9
+#EXTINF:1 group-title="Sport",FR: Bein Sport Max 9
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144608.m3u8
-#EXTINF:0,group-title="Sport",FR: BeIN SPORTS 1 HD (1080P)
+#EXTINF:1 group-title="Sport",FR: BeIN SPORTS 1 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144479.m3u8
-#EXTINF:0,group-title="Sport",FR: Bein Sports 1 HD backup
+#EXTINF:1 group-title="Sport",FR: Bein Sports 1 HD backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144456.m3u8
-#EXTINF:0,group-title="Sport",FR: beIN SPORTS 2 backup
+#EXTINF:1 group-title="Sport",FR: beIN SPORTS 2 backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144447.m3u8
-#EXTINF:0,group-title="Sport",FR: BeIN SPORTS 2 HD (1080P)
+#EXTINF:1 group-title="Sport",FR: BeIN SPORTS 2 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144478.m3u8
-#EXTINF:0,group-title="Sport",FR: BeIN SPORTS 3 HD (1080P)
+#EXTINF:1 group-title="Sport",FR: BeIN SPORTS 3 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144477.m3u8
-#EXTINF:0,group-title="Sport",FR: beIN SPORTS 3HD
+#EXTINF:1 group-title="Sport",FR: beIN SPORTS 3HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144520.m3u8
-#EXTINF:0,group-title="Sport",FR: beIN SPORTS1 HD
+#EXTINF:1 group-title="Sport",FR: beIN SPORTS1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144521.m3u8
-#EXTINF:0,group-title="Sport",FR: beINS PORTS 2HD
+#EXTINF:1 group-title="Sport",FR: beINS PORTS 2HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144522.m3u8
-#EXTINF:0,group-title="Sport",FR: BFM SPORT
+#EXTINF:1 group-title="Sport",FR: BFM SPORT
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144484.m3u8
-#EXTINF:0,group-title="Sport",FR: Canal  Sport
+#EXTINF:1 group-title="Sport",FR: Canal  Sport
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144596.m3u8
-#EXTINF:0,group-title="Sport",FR: Canal  Sport HD (1080P)
+#EXTINF:1 group-title="Sport",FR: Canal  Sport HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144475.m3u8
-#EXTINF:0,group-title="Sport",FR: EQUIDIA LIFE
+#EXTINF:1 group-title="Sport",FR: EQUIDIA LIFE
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144481.m3u8
-#EXTINF:0,group-title="Sport",FR: EQUIDIA live
+#EXTINF:1 group-title="Sport",FR: EQUIDIA live
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144560.m3u8
-#EXTINF:0,group-title="Sport",FR: Eurosport 1
+#EXTINF:1 group-title="Sport",FR: Eurosport 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144561.m3u8
-#EXTINF:0,group-title="Sport",FR: Eurosport 2
+#EXTINF:1 group-title="Sport",FR: Eurosport 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144562.m3u8
-#EXTINF:0,group-title="Sport",FR: EUROSPORT2
+#EXTINF:1 group-title="Sport",FR: EUROSPORT2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144563.m3u8
-#EXTINF:0,group-title="Sport",FR: FOOT  24
+#EXTINF:1 group-title="Sport",FR: FOOT  24
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144449.m3u8
-#EXTINF:0,group-title="Sport",FR: INFOSPORT
+#EXTINF:1 group-title="Sport",FR: INFOSPORT
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144554.m3u8
-#EXTINF:0,group-title="Sport",FR: J One
+#EXTINF:1 group-title="Sport",FR: J One
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144443.m3u8
-#EXTINF:0,group-title="Sport",FR: L'EQUIPE 21
+#EXTINF:1 group-title="Sport",FR: L'EQUIPE 21
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144553.m3u8
-#EXTINF:0,group-title="Sport",FR: SFR SPORT 3 backup
+#EXTINF:1 group-title="Sport",FR: SFR SPORT 3 backup
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144457.m3u8
-#EXTINF:0,group-title="Sport",FR: SFR Sport 4 4K
+#EXTINF:1 group-title="Sport",FR: SFR Sport 4 4K
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144503.m3u8
-#EXTINF:0,group-title="Sport",FR: SFR sport 5
+#EXTINF:1 group-title="Sport",FR: SFR sport 5
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144499.m3u8
-#EXTINF:0,group-title="Sport",FR: SFR: Sport 1
+#EXTINF:1 group-title="Sport",FR: SFR: Sport 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144519.m3u8
-#EXTINF:0,group-title="Sport",FR: SFR: Sport 2
+#EXTINF:1 group-title="Sport",FR: SFR: Sport 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144518.m3u8
-#EXTINF:0,group-title="Sport",FR: SFR: Sport 3
+#EXTINF:1 group-title="Sport",FR: SFR: Sport 3
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144517.m3u8
-#EXTINF:0,group-title="Sport",FR: SFR2 SPORT HD (backup)
+#EXTINF:1 group-title="Sport",FR: SFR2 SPORT HD (backup)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/144458.m3u8
-#EXTINF:0,group-title="Sport",HU: DIGI SPORT 1
+#EXTINF:1 group-title="Sport",HU: DIGI SPORT 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145930.m3u8
-#EXTINF:0,group-title="Sport",HU: DIGI SPORT 2
+#EXTINF:1 group-title="Sport",HU: DIGI SPORT 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145931.m3u8
-#EXTINF:0,group-title="Sport",HU: DIGI SPORT 3x
+#EXTINF:1 group-title="Sport",HU: DIGI SPORT 3x
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145932.m3u8
-#EXTINF:0,group-title="Sport",HU: Sport 1
+#EXTINF:1 group-title="Sport",HU: Sport 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145933.m3u8
-#EXTINF:0,group-title="Sport",HU: Sport 1 CZE/HU
+#EXTINF:1 group-title="Sport",HU: Sport 1 CZE/HU
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145934.m3u8
-#EXTINF:0,group-title="Sport",HU: Sport 2
+#EXTINF:1 group-title="Sport",HU: Sport 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145935.m3u8
-#EXTINF:0,group-title="Sport",HU: Sport 2 CZE/HU
+#EXTINF:1 group-title="Sport",HU: Sport 2 CZE/HU
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145936.m3u8
-#EXTINF:0,group-title="Sport",HU: SportM
+#EXTINF:1 group-title="Sport",HU: SportM
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145937.m3u8
-#EXTINF:0,group-title="Sport",IN: STAR SPORTS 1 HD
+#EXTINF:1 group-title="Sport",IN: STAR SPORTS 1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145960.m3u8
-#EXTINF:0,group-title="Sport",IN: STAR SPORTS 2 HD
+#EXTINF:1 group-title="Sport",IN: STAR SPORTS 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145961.m3u8
-#EXTINF:0,group-title="Sport",IN: STAR SPORTS 3 HD
+#EXTINF:1 group-title="Sport",IN: STAR SPORTS 3 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145962.m3u8
-#EXTINF:0,group-title="Sport",IN: STAR SPORTS 4 HD
+#EXTINF:1 group-title="Sport",IN: STAR SPORTS 4 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145963.m3u8
-#EXTINF:0,group-title="Sport",IN: Star Sports1-SD
+#EXTINF:1 group-title="Sport",IN: Star Sports1-SD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146087.m3u8
-#EXTINF:0,group-title="Sport",IN: Star Sports2-SD
+#EXTINF:1 group-title="Sport",IN: Star Sports2-SD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146088.m3u8
-#EXTINF:0,group-title="Sport",IT:  Sport 24 HD
+#EXTINF:1 group-title="Sport",IT:  Sport 24 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/143925.m3u8
-#EXTINF:0,group-title="Sport",IT:  Sport F1 HD
+#EXTINF:1 group-title="Sport",IT:  Sport F1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/143926.m3u8
-#EXTINF:0,group-title="Sport",IT:  Sport1 HD
+#EXTINF:1 group-title="Sport",IT:  Sport1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/143927.m3u8
-#EXTINF:0,group-title="Sport",IT:  Sport2 HD
+#EXTINF:1 group-title="Sport",IT:  Sport2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/143928.m3u8
-#EXTINF:0,group-title="Sport",IT:  Sport3 HD
+#EXTINF:1 group-title="Sport",IT:  Sport3 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/143929.m3u8
-#EXTINF:0,group-title="Sport",IT: Premium Sport 2
+#EXTINF:1 group-title="Sport",IT: Premium Sport 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/143953.m3u8
-#EXTINF:0,group-title="Sport",IT: Premium Sport HD
+#EXTINF:1 group-title="Sport",IT: Premium Sport HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/143930.m3u8
-#EXTINF:0,group-title="Sport",IT: Rai Sport 1
+#EXTINF:1 group-title="Sport",IT: Rai Sport 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/143904.m3u8
-#EXTINF:0,group-title="Sport",IT: Rai Sport2
+#EXTINF:1 group-title="Sport",IT: Rai Sport2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/143905.m3u8
-#EXTINF:0,group-title="Sport",NL : Ziggo Sport Extra2
+#EXTINF:1 group-title="Sport",NL : Ziggo Sport Extra2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146211.m3u8
-#EXTINF:0,group-title="Sport",NL : Ziggo Sport Golf
+#EXTINF:1 group-title="Sport",NL : Ziggo Sport Golf
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146212.m3u8
-#EXTINF:0,group-title="Sport",NL : Ziggo Sport.Voetbal
+#EXTINF:1 group-title="Sport",NL : Ziggo Sport.Voetbal
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146215.m3u8
-#EXTINF:0,group-title="Sport",NL: Eurosport 1 FHD 1080
+#EXTINF:1 group-title="Sport",NL: Eurosport 1 FHD 1080
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146227.m3u8
-#EXTINF:0,group-title="Sport",NL: Eurosport 2 HD
+#EXTINF:1 group-title="Sport",NL: Eurosport 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146226.m3u8
-#EXTINF:0,group-title="Sport",NL: Fox Sports 1
+#EXTINF:1 group-title="Sport",NL: Fox Sports 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146228.m3u8
-#EXTINF:0,group-title="Sport",NL: FOX Sports 1 FHD 1080
+#EXTINF:1 group-title="Sport",NL: FOX Sports 1 FHD 1080
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146224.m3u8
-#EXTINF:0,group-title="Sport",NL: Fox Sports 2
+#EXTINF:1 group-title="Sport",NL: Fox Sports 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146229.m3u8
-#EXTINF:0,group-title="Sport",NL: FOX Sports 2 HD
+#EXTINF:1 group-title="Sport",NL: FOX Sports 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146223.m3u8
-#EXTINF:0,group-title="Sport",NL: Fox Sports 3
+#EXTINF:1 group-title="Sport",NL: Fox Sports 3
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146230.m3u8
-#EXTINF:0,group-title="Sport",NL: FOX Sports 3 HD ( 1080P )
+#EXTINF:1 group-title="Sport",NL: FOX Sports 3 HD ( 1080P )
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146216.m3u8
-#EXTINF:0,group-title="Sport",NL: Fox Sports 4
+#EXTINF:1 group-title="Sport",NL: Fox Sports 4
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146231.m3u8
-#EXTINF:0,group-title="Sport",NL: Fox Sports 4 HD ( 1080P )
+#EXTINF:1 group-title="Sport",NL: Fox Sports 4 HD ( 1080P )
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146218.m3u8
-#EXTINF:0,group-title="Sport",NL: Fox Sports 5
+#EXTINF:1 group-title="Sport",NL: Fox Sports 5
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146232.m3u8
-#EXTINF:0,group-title="Sport",NL: Fox Sports 5 HD ( 1080P )
+#EXTINF:1 group-title="Sport",NL: Fox Sports 5 HD ( 1080P )
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146217.m3u8
-#EXTINF:0,group-title="Sport",NL: Fox Sports 6
+#EXTINF:1 group-title="Sport",NL: Fox Sports 6
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146233.m3u8
-#EXTINF:0,group-title="Sport",NL: Ziggo Sport Extra1
+#EXTINF:1 group-title="Sport",NL: Ziggo Sport Extra1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146210.m3u8
-#EXTINF:0,group-title="Sport",NL: Ziggo Sport Racing
+#EXTINF:1 group-title="Sport",NL: Ziggo Sport Racing
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146213.m3u8
-#EXTINF:0,group-title="Sport",NL: Ziggo Sport Select FHD 1080
+#EXTINF:1 group-title="Sport",NL: Ziggo Sport Select FHD 1080
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146244.m3u8
-#EXTINF:0,group-title="Sport",NL: Ziggo Sport Select HD
+#EXTINF:1 group-title="Sport",NL: Ziggo Sport Select HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146214.m3u8
-#EXTINF:0,group-title="Sport",SW: Teleclub Sport 1 HD
+#EXTINF:1 group-title="Sport",SW: Teleclub Sport 1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145504.m3u8
-#EXTINF:0,group-title="Sport",SW: Teleclub Sport 1 SD
+#EXTINF:1 group-title="Sport",SW: Teleclub Sport 1 SD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145503.m3u8
-#EXTINF:0,group-title="Sport",SW: Teleclub Sport 2 HD
+#EXTINF:1 group-title="Sport",SW: Teleclub Sport 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145502.m3u8
-#EXTINF:0,group-title="Sport",SW: Teleclub Sport 2 SD
+#EXTINF:1 group-title="Sport",SW: Teleclub Sport 2 SD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145501.m3u8
-#EXTINF:0,group-title="Sport",SW: Teleclub Sport 3 HD
+#EXTINF:1 group-title="Sport",SW: Teleclub Sport 3 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145500.m3u8
-#EXTINF:0,group-title="Sport",SW: Teleclub Sport 3 SD
+#EXTINF:1 group-title="Sport",SW: Teleclub Sport 3 SD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145499.m3u8
-#EXTINF:0,group-title="Sport",UK: BT Sport 1 HD
+#EXTINF:1 group-title="Sport",UK: BT Sport 1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146538.m3u8
-#EXTINF:0,group-title="Sport",UK: BT Sport 2 HD
+#EXTINF:1 group-title="Sport",UK: BT Sport 2 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146539.m3u8
-#EXTINF:0,group-title="Sport",UK: BT Sport 3 HD
+#EXTINF:1 group-title="Sport",UK: BT Sport 3 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146667.m3u8
-#EXTINF:0,group-title="Sport",UK: BT Sport 3 SD
+#EXTINF:1 group-title="Sport",UK: BT Sport 3 SD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146676.m3u8
-#EXTINF:0,group-title="Sport",UK: BT Sport ESPN
+#EXTINF:1 group-title="Sport",UK: BT Sport ESPN
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146540.m3u8
-#EXTINF:0,group-title="Sport",UK: BT Sport Extra 1
+#EXTINF:1 group-title="Sport",UK: BT Sport Extra 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146677.m3u8
-#EXTINF:0,group-title="Sport",UK: BT Sport Extra 2
+#EXTINF:1 group-title="Sport",UK: BT Sport Extra 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146678.m3u8
-#EXTINF:0,group-title="Sport",UK: BT Sport Extra 3
+#EXTINF:1 group-title="Sport",UK: BT Sport Extra 3
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146679.m3u8
-#EXTINF:0,group-title="Sport",UK: BT Sport Extra 4
+#EXTINF:1 group-title="Sport",UK: BT Sport Extra 4
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146680.m3u8
-#EXTINF:0,group-title="Sport",UK: BT Sport Extra 5
+#EXTINF:1 group-title="Sport",UK: BT Sport Extra 5
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146681.m3u8
-#EXTINF:0,group-title="Sport",UK: BT Sport Mosaic
+#EXTINF:1 group-title="Sport",UK: BT Sport Mosaic
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146682.m3u8
-#EXTINF:0,group-title="Sport",UK: BT Sport Mosaic 2
+#EXTINF:1 group-title="Sport",UK: BT Sport Mosaic 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146683.m3u8
-#EXTINF:0,group-title="Sport",UK: BT Sports 2 SD
+#EXTINF:1 group-title="Sport",UK: BT Sports 2 SD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146684.m3u8
-#EXTINF:0,group-title="Sport",UK: Eir Sports1
+#EXTINF:1 group-title="Sport",UK: Eir Sports1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146697.m3u8
-#EXTINF:0,group-title="Sport",UK: Eir Sports2
+#EXTINF:1 group-title="Sport",UK: Eir Sports2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146698.m3u8
-#EXTINF:0,group-title="Sport",UK: Eurosport 1
+#EXTINF:1 group-title="Sport",UK: Eurosport 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146699.m3u8
-#EXTINF:0,group-title="Sport",UK: Eurosport 2
+#EXTINF:1 group-title="Sport",UK: Eurosport 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146700.m3u8
-#EXTINF:0,group-title="Sport",UK: Premier Sports HD
+#EXTINF:1 group-title="Sport",UK: Premier Sports HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146664.m3u8
-#EXTINF:0,group-title="Sport",UK: PREMIERE SPORT HD
+#EXTINF:1 group-title="Sport",UK: PREMIERE SPORT HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146720.m3u8
-#EXTINF:0,group-title="Sport",UK: Sky Sport 1 SD
+#EXTINF:1 group-title="Sport",UK: Sky Sport 1 SD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146601.m3u8
-#EXTINF:0,group-title="Sport",UK: Sky Sport F1 HD
+#EXTINF:1 group-title="Sport",UK: Sky Sport F1 HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146602.m3u8
-#EXTINF:0,group-title="Sport",UK: Sky Sport News
+#EXTINF:1 group-title="Sport",UK: Sky Sport News
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146579.m3u8
-#EXTINF:0,group-title="Sport",UK: SKY SPORTS ACTION
+#EXTINF:1 group-title="Sport",UK: SKY SPORTS ACTION
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146731.m3u8
-#EXTINF:0,group-title="Sport",UK: SKY SPORTS ACTION HD
+#EXTINF:1 group-title="Sport",UK: SKY SPORTS ACTION HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146576.m3u8
-#EXTINF:0,group-title="Sport",UK: SKY SPORTS CRICKET
+#EXTINF:1 group-title="Sport",UK: SKY SPORTS CRICKET
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146730.m3u8
-#EXTINF:0,group-title="Sport",UK: SKY SPORTS CRICKET HD
+#EXTINF:1 group-title="Sport",UK: SKY SPORTS CRICKET HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146575.m3u8
-#EXTINF:0,group-title="Sport",UK: SKY SPORTS GOLF
+#EXTINF:1 group-title="Sport",UK: SKY SPORTS GOLF
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146732.m3u8
-#EXTINF:0,group-title="Sport",UK: SKY SPORTS GOLF HD
+#EXTINF:1 group-title="Sport",UK: SKY SPORTS GOLF HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146577.m3u8
-#EXTINF:0,group-title="Sport",UK: SKY SPORTS MAIN EVENT
+#EXTINF:1 group-title="Sport",UK: SKY SPORTS MAIN EVENT
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146729.m3u8
-#EXTINF:0,group-title="Sport",UK: SKY SPORTS MAIN EVENT HD
+#EXTINF:1 group-title="Sport",UK: SKY SPORTS MAIN EVENT HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146580.m3u8
-#EXTINF:0,group-title="Sport",UK: Sky Sports Mix
+#EXTINF:1 group-title="Sport",UK: Sky Sports Mix
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146665.m3u8
-#EXTINF:0,group-title="Sport",UK: SKY SPORTS PREMIER LEAGUE
+#EXTINF:1 group-title="Sport",UK: SKY SPORTS PREMIER LEAGUE
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146733.m3u8
-#EXTINF:0,group-title="Sport",UK: SKY SPORTS PREMIER LEAGUE HD
+#EXTINF:1 group-title="Sport",UK: SKY SPORTS PREMIER LEAGUE HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146578.m3u8
-#EXTINF:0,group-title="Sport",UKR: Futbol 1
+#EXTINF:1 group-title="Sport",UKR: Futbol 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146305.m3u8
-#EXTINF:0,group-title="Sport",UKR: Futbol 1HD
+#EXTINF:1 group-title="Sport",UKR: Futbol 1HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146306.m3u8
-#EXTINF:0,group-title="Sport",UKR: Futbol 2
+#EXTINF:1 group-title="Sport",UKR: Futbol 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146307.m3u8
-#EXTINF:0,group-title="Sport",UKR: Futbol 2HD
+#EXTINF:1 group-title="Sport",UKR: Futbol 2HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146308.m3u8
-#EXTINF:0,group-title="Sport",UKR: Sport 1
+#EXTINF:1 group-title="Sport",UKR: Sport 1
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146309.m3u8
-#EXTINF:0,group-title="Sport",UKR: Sport 2
+#EXTINF:1 group-title="Sport",UKR: Sport 2
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146310.m3u8
-#EXTINF:0,group-title="Sport",UKR: TRK Ukrania HD
+#EXTINF:1 group-title="Sport",UKR: TRK Ukrania HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146311.m3u8
-#EXTINF:0,group-title="Sport",US:   NBA TV HD
+#EXTINF:1 group-title="Sport",US:   NBA TV HD
 http://fonte.iptvmaishd.com:25461/live/4247/4247/146528.m3u8
-#EXTINF:0,group-title="Sport",VIP DE:  Sport 1 HD (1080P)
+#EXTINF:1 group-title="Sport",VIP DE:  Sport 1 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145844.m3u8
-#EXTINF:0,group-title="Sport",VIP DE:  Sport 10 HD (1080P)
+#EXTINF:1 group-title="Sport",VIP DE:  Sport 10 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145843.m3u8
-#EXTINF:0,group-title="Sport",VIP DE:  Sport 11 HD (1080P)
+#EXTINF:1 group-title="Sport",VIP DE:  Sport 11 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145842.m3u8
-#EXTINF:0,group-title="Sport",VIP DE:  Sport 2 HD (1080P)
+#EXTINF:1 group-title="Sport",VIP DE:  Sport 2 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145841.m3u8
-#EXTINF:0,group-title="Sport",VIP DE:  Sport 3 HD (1080P)
+#EXTINF:1 group-title="Sport",VIP DE:  Sport 3 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145840.m3u8
-#EXTINF:0,group-title="Sport",VIP DE:  Sport 4 HD (1080P)
+#EXTINF:1 group-title="Sport",VIP DE:  Sport 4 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145839.m3u8
-#EXTINF:0,group-title="Sport",VIP DE:  Sport 5 HD (1080P)
+#EXTINF:1 group-title="Sport",VIP DE:  Sport 5 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145838.m3u8
-#EXTINF:0,group-title="Sport",VIP DE:  Sport 6 HD (1080P)
+#EXTINF:1 group-title="Sport",VIP DE:  Sport 6 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145837.m3u8
-#EXTINF:0,group-title="Sport",VIP DE:  Sport 7 HD (1080P)
+#EXTINF:1 group-title="Sport",VIP DE:  Sport 7 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145836.m3u8
-#EXTINF:0,group-title="Sport",VIP DE:  Sport 8 HD (1080P)
+#EXTINF:1 group-title="Sport",VIP DE:  Sport 8 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145835.m3u8
-#EXTINF:0,group-title="Sport",VIP DE:  Sport 9 HD (1080P)
+#EXTINF:1 group-title="Sport",VIP DE:  Sport 9 HD (1080P)
 http://fonte.iptvmaishd.com:25461/live/4247/4247/145834.m3u8
 #EXTINF:1 tvg-logo="https://static1.squarespace.com/static/53a1b62ee4b037955eb402bb/53ac3b66e4b0b2e81ba57955/53bc109ce4b065e0b429af95/1404833949549/MKC_logo.jpg" group-title="Sport",MKC SPORT
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
