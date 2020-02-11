@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title> Status</title>
+$(if refresh-timeout)
+<meta http-equiv="refresh" content="$(refresh-timeout-secs)">
+$(endif)
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="-1">
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/>
+<link rel="stylesheet" href="style.css">
+
+<script language="JavaScript">
+<!--
+$(if advert-pending == 'yes')
+    var popup = '';
+    function focusAdvert() {
+	if (window.focus) popup.focus();
+    }
+    function openAdvert() {
+	popup = open('$(link-advert)', 'hotspot_advert', '');
+	setTimeout("focusAdvert()", 1000);
+    }
+$(endif)
+    function openLogout() {
+	if (window.name != 'hotspot_status') return true;
+        open('$(link-logout)', 'hotspot_logout', 'toolbar=0,location=0,directories=0,status=0,menubars=0,resizable=1,width=280,height=250');
+	window.close();
+	return false;
+    }
+//-->
+</script>
+</script>
+		<style>
+.blink {
+  animation: blink-animation 1s steps(5, start) infinite;
+  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+</style>
+</head>
+<body $(if advert-pending == 'yes')	onLoad="openAdvert()" $(endif) >
+<div class="main">
+ <center><img src="img/logo.gif" alt="kemangi 41" style="border-radius: 2px; width:250px; height:auto;"/><br><br>
+        <font face="Cooper Black" >PERGUNAKAN INTERNET DENGAN BIJAK</font></center>
+		<form action="$(link-logout)" name="logout" onSubmit="return openLogout()">
+<p style="color:#fff;font-size:12px; text-align:center;margin-top:-15px;margin-bottom:5px">
+$(if login-by == 'trial')
+	<br><div style="text-align: center;">Selamat Mencoba!</div><br>
+$(elif login-by != 'mac') 
+	<br><div style="text-align: center;">Anda sudah terhubung</div><br>
+$(endif)
+	<p style="color:#fff;font-size:12px; text-align:center;margin-top:-15px;margin-bottom:5px">
+<table class="table2">
+    <tr><td  style="width: 40%;">Kode voucher</td><td><b id="user">$(username)</td></tr>
+	<tr><td  style="width: 40%;">IP Address</td><td>$(ip)</td></tr>
+    <tr><td>MAC Address</td><td>$(mac)</td></tr>
+	 <tr><td>UL / DL</td><td>$(bytes-in-nice) / $(bytes-out-nice)</td></tr>
+	 <tr><td>Terkoneksi</td><td>$(uptime)</td></tr>
+$(if remain-bytes-total)
+     <tr><td>Sisa Kuota</td><td>$(remain-bytes-total-nice)</td></tr>
+$(endif)
+$(if session-time-left)
+     <tr><td>Sisa Waktu</td><td>$(session-time-left)</td></tr>
+$(endif)
+$(if blocked == 'yes')
+	 <tr><td>Status</td><td><div style="color: #FF8080">
+<a href="$(link-advert)" target="hotspot_advert">advertisement</a> required</div></td></tr>
+$(elif refresh-timeout)
+	 <tr><td>Refresh</td><td>$(refresh-timeout)</td></tr>
+$(endif)
+    <tr><td>Expired</td><td style="padding-top:0px; padding-left:2px;"><p class="blink"><iframe id="exp" frameborder="0" scrolling="no" src="about:blank"></iframe></td></tr>
+
+</table>
+$(if login-by-mac != 'yes')
+
+<!-- user manager link. if user manager resides on other router, replace $(hostname) by its address
+<button onclick="document.location='http://$(hostname)/user?subs='; return false;">status</button>
+<!-- end of user manager link -->
+<input class="btn btn-in btn-bl" type="submit" value="LOGOUT">
+
+$(endif)
+</form>
+  <table class="table" >
+  <caption style="font-size: 14px; font-weight: bold;">DAPATKAN VOUCHER</caption>
+    <tr>
+         <th>WhatsApp 08991814222</th>
+        </table><br>
+<p style="font-size:14px;text-align:center;margin-top:-5px;margin-bottom:-4px;color:#FFFF00" class="blink">
+	<p style="text-align:center;margin-top:-3px;margin-bottom:5px"></p>
+</div>
+<p style=" text-align:center;margin-top:10px;margin-bottom:5px">
+<div class="box" style="color:#fff";>
+ <i>Copyright &copy; 2019 frkzlss.net</i><br />
+Powered by <a style="color:#fff; text-decoration:underline;" href="https://www.mamahotep.net/">wifi@mahotep.net</a>
+
+                      
+</div>
+</center>
+<script language="JavaScript">
+document.addEventListener("contextmenu", function(e){
+    e.preventDefault();
+}, false);
+</script>
+</body>
+</html>
